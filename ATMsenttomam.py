@@ -3,7 +3,7 @@ import mysql.connector
 myConnnection =""
 cursor=""
 userName="root"
-password ="Balaraman18*"
+password ="-------------------ENTER YOUR PASSWORD HERE BEFORE EXECUTION !!!------------------"
 cid=""
 #MODULE TO CHECK MYSQL CONNECTIVITY
 def MYSQLconnectionCheck ():
