@@ -2,8 +2,8 @@ import mysql.connector
 # GLOBAL VARIABLES DECLARATION
 myConnnection =""
 cursor=""
-userName="root"
-password ="Balaraman18*"
+userName="ENTER_YOUR_USERNAME"    #don't forget to add your username before execution !!!
+password ="ENTER_YOUR_MySQL_PASSWORD_HERE"    #don't forget to add your Password before execution !!!
 cid=""
 #MODULE TO CHECK MYSQL CONNECTIVITY
 def MYSQLconnectionCheck ():
